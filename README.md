@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ricardo, currently learning C++, ImGUI, OpenGL & MyForms.
+- 👀 I’m interested in Computer Science, Game Development, Web Development and Graphics & Design.
+- 📫 If you'd like to discuss a project - you can reach me via e-mail.
